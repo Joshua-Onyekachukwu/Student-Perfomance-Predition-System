@@ -1,0 +1,105 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,total_score,pass_math,pass_reading,pass_writing,pass_overall,average_score,Grade,Result
+male,group A,associate's degree,free/reduced,none,47,57,44,148,False,False,False,False,49.333333333333336,F,Fail
+male,group C,associate's degree,standard,none,58,54,52,164,False,False,False,False,54.666666666666664,F,Pass
+female,group A,master's degree,standard,none,50,53,58,161,False,False,False,False,53.666666666666664,F,Pass
+male,group D,some college,standard,none,44,54,53,151,False,False,False,False,50.333333333333336,F,Fail
+female,group E,associate's degree,free/reduced,none,50,56,54,160,False,False,False,False,53.333333333333336,F,Pass
+male,group E,some college,standard,none,53,55,48,156,False,False,False,False,52.0,F,Pass
+male,group D,associate's degree,standard,none,52,55,49,156,False,False,False,False,52.0,F,Pass
+female,group B,associate's degree,standard,none,47,49,50,146,False,False,False,False,48.666666666666664,F,Pass
+male,group A,some college,free/reduced,completed,50,47,54,151,False,False,False,False,50.333333333333336,F,Pass
+male,group A,associate's degree,standard,none,54,53,47,154,False,False,False,False,51.333333333333336,F,Pass
+female,group D,some college,standard,none,51,58,54,163,False,False,False,False,54.333333333333336,F,Pass
+female,group A,bachelor's degree,standard,none,51,49,51,151,False,False,False,False,50.333333333333336,F,Pass
+male,group C,bachelor's degree,standard,none,58,55,48,161,False,False,False,False,53.666666666666664,F,Pass
+female,group E,some college,free/reduced,completed,42,55,54,151,False,False,False,False,50.333333333333336,F,Fail
+male,group D,bachelor's degree,standard,none,54,49,47,150,False,False,False,False,50.0,F,Pass
+male,group B,master's degree,free/reduced,none,49,53,52,154,False,False,False,False,51.333333333333336,F,Pass
+male,group C,high school,standard,none,52,53,49,154,False,False,False,False,51.333333333333336,F,Pass
+male,group C,high school,free/reduced,completed,53,51,51,155,False,False,False,False,51.666666666666664,F,Pass
+female,group C,bachelor's degree,free/reduced,completed,43,51,54,148,False,False,False,False,49.333333333333336,F,Fail
+female,group B,high school,free/reduced,completed,46,54,58,158,False,False,False,False,52.666666666666664,F,Pass
+female,group E,high school,standard,none,50,50,47,147,False,False,False,False,49.0,F,Pass
+male,group C,some high school,free/reduced,completed,45,52,49,146,False,False,False,False,48.666666666666664,F,Fail
+male,group B,some high school,free/reduced,none,48,52,45,145,False,False,False,False,48.333333333333336,F,Fail
+male,group E,high school,free/reduced,none,55,56,51,162,False,False,False,False,54.0,F,Pass
+female,group B,some college,free/reduced,none,45,53,55,153,False,False,False,False,51.0,F,Fail
+female,group C,high school,free/reduced,none,42,62,60,164,False,True,True,False,54.666666666666664,F,Fail
+female,group E,master's degree,free/reduced,none,45,56,54,155,False,False,False,False,51.666666666666664,F,Fail
+male,group D,high school,standard,none,57,50,54,161,False,False,False,False,53.666666666666664,F,Pass
+male,group B,some college,standard,none,54,52,51,157,False,False,False,False,52.333333333333336,F,Pass
+female,group D,high school,standard,none,56,52,55,163,False,False,False,False,54.333333333333336,F,Pass
+male,group E,some college,standard,none,59,51,43,153,False,False,False,False,51.0,F,Fail
+male,group A,some high school,standard,completed,47,49,49,145,False,False,False,False,48.333333333333336,F,Pass
+male,group D,high school,standard,none,54,52,52,158,False,False,False,False,52.666666666666664,F,Pass
+female,group C,some high school,free/reduced,none,44,50,51,145,False,False,False,False,48.333333333333336,F,Fail
+female,group D,associate's degree,free/reduced,none,47,53,58,158,False,False,False,False,52.666666666666664,F,Pass
+male,group D,high school,standard,none,53,52,42,147,False,False,False,False,49.0,F,Fail
+male,group D,high school,standard,none,45,48,46,139,False,False,False,False,46.333333333333336,F,Fail
+male,group D,some high school,free/reduced,none,56,54,52,162,False,False,False,False,54.0,F,Pass
+male,group C,some high school,standard,none,51,52,44,147,False,False,False,False,49.0,F,Fail
+female,group D,high school,free/reduced,none,49,57,52,158,False,False,False,False,52.666666666666664,F,Pass
+female,group C,some high school,free/reduced,none,43,53,53,149,False,False,False,False,49.666666666666664,F,Fail
+female,group B,some high school,standard,none,41,55,51,147,False,False,False,False,49.0,F,Fail
+male,group C,associate's degree,standard,none,49,51,43,143,False,False,False,False,47.666666666666664,F,Fail
+female,group C,associate's degree,standard,none,46,58,57,161,False,False,False,False,53.666666666666664,F,Pass
+female,group A,some high school,free/reduced,none,47,59,50,156,False,False,False,False,52.0,F,Pass
+male,group C,some college,free/reduced,completed,50,48,53,151,False,False,False,False,50.333333333333336,F,Pass
+male,group D,associate's degree,free/reduced,none,53,54,48,155,False,False,False,False,51.666666666666664,F,Pass
+male,group B,some college,free/reduced,none,54,54,45,153,False,False,False,False,51.0,F,Fail
+male,group A,high school,standard,none,59,52,46,157,False,False,False,False,52.333333333333336,F,Pass
+female,group B,associate's degree,standard,none,49,52,54,155,False,False,False,False,51.666666666666664,F,Pass
+male,group D,some college,free/reduced,none,61,47,56,164,True,False,False,False,54.666666666666664,F,Pass
+female,group C,some college,standard,none,54,48,52,154,False,False,False,False,51.333333333333336,F,Pass
+female,group D,master's degree,free/reduced,none,40,59,54,153,False,False,False,False,51.0,F,Fail
+male,group D,some high school,free/reduced,none,62,49,52,163,True,False,False,False,54.333333333333336,F,Pass
+male,group C,master's degree,free/reduced,none,54,59,50,163,False,False,False,False,54.333333333333336,F,Pass
+male,group C,high school,standard,completed,53,52,49,154,False,False,False,False,51.333333333333336,F,Pass
+female,group C,some high school,standard,none,47,54,53,154,False,False,False,False,51.333333333333336,F,Pass
+male,group B,bachelor's degree,free/reduced,none,48,51,46,145,False,False,False,False,48.333333333333336,F,Pass
+male,group A,associate's degree,free/reduced,completed,40,55,53,148,False,False,False,False,49.333333333333336,F,Fail
+male,group A,some college,standard,completed,61,51,52,164,True,False,False,False,54.666666666666664,F,Pass
+female,group B,some college,free/reduced,completed,48,56,58,162,False,False,False,False,54.0,F,Pass
+male,group A,some high school,standard,none,53,54,48,155,False,False,False,False,51.666666666666664,F,Pass
+female,group C,master's degree,free/reduced,none,40,58,54,152,False,False,False,False,50.666666666666664,F,Fail
+male,group C,high school,free/reduced,completed,58,51,52,161,False,False,False,False,53.666666666666664,F,Pass
+male,group D,associate's degree,standard,none,61,48,46,155,True,False,False,False,51.666666666666664,F,Pass
+male,group D,some college,free/reduced,none,49,57,46,152,False,False,False,False,50.666666666666664,F,Pass
+female,group C,some high school,standard,completed,44,51,55,150,False,False,False,False,50.0,F,Fail
+male,group D,high school,standard,none,41,52,51,144,False,False,False,False,48.0,F,Fail
+female,group B,high school,standard,none,50,53,55,158,False,False,False,False,52.666666666666664,F,Pass
+male,group C,some high school,free/reduced,completed,51,56,53,160,False,False,False,False,53.333333333333336,F,Pass
+female,group D,associate's degree,free/reduced,none,43,60,58,161,False,True,False,False,53.666666666666664,F,Fail
+male,group D,associate's degree,free/reduced,none,52,57,50,159,False,False,False,False,53.0,F,Pass
+male,group A,high school,free/reduced,none,53,58,44,155,False,False,False,False,51.666666666666664,F,Fail
+female,group C,associate's degree,standard,none,49,53,53,155,False,False,False,False,51.666666666666664,F,Pass
+female,group D,associate's degree,free/reduced,completed,42,61,58,161,False,True,False,False,53.666666666666664,F,Fail
+male,group B,some college,free/reduced,none,55,55,47,157,False,False,False,False,52.333333333333336,F,Pass
+female,group D,some high school,standard,none,48,58,54,160,False,False,False,False,53.333333333333336,F,Pass
+male,group B,high school,standard,none,52,48,49,149,False,False,False,False,49.666666666666664,F,Pass
+female,group B,some high school,free/reduced,none,49,58,55,162,False,False,False,False,54.0,F,Pass
+female,group D,associate's degree,free/reduced,none,46,56,57,159,False,False,False,False,53.0,F,Pass
+female,group B,high school,standard,none,42,52,51,145,False,False,False,False,48.333333333333336,F,Fail
+female,group C,associate's degree,standard,none,52,55,57,164,False,False,False,False,54.666666666666664,F,Pass
+male,group B,bachelor's degree,standard,none,59,54,51,164,False,False,False,False,54.666666666666664,F,Pass
+male,group A,high school,free/reduced,none,45,47,49,141,False,False,False,False,47.0,F,Fail
+male,group E,some college,free/reduced,completed,49,52,51,152,False,False,False,False,50.666666666666664,F,Pass
+female,group C,some high school,free/reduced,none,48,58,52,158,False,False,False,False,52.666666666666664,F,Pass
+male,group B,some college,standard,none,58,50,45,153,False,False,False,False,51.0,F,Fail
+male,group B,high school,standard,completed,52,49,46,147,False,False,False,False,49.0,F,Pass
+male,group C,high school,free/reduced,none,59,53,52,164,False,False,False,False,54.666666666666664,F,Pass
+male,group C,associate's degree,free/reduced,none,49,51,51,151,False,False,False,False,50.333333333333336,F,Pass
+male,group B,high school,standard,none,59,58,47,164,False,False,False,False,54.666666666666664,F,Pass
+male,group D,bachelor's degree,free/reduced,none,55,46,44,145,False,False,False,False,48.333333333333336,F,Fail
+female,group E,associate's degree,standard,none,51,51,54,156,False,False,False,False,52.0,F,Pass
+male,group D,high school,free/reduced,none,44,51,48,143,False,False,False,False,47.666666666666664,F,Fail
+male,group B,high school,standard,none,57,48,51,156,False,False,False,False,52.0,F,Pass
+female,group B,associate's degree,free/reduced,none,46,61,55,162,False,True,False,False,54.0,F,Pass
+female,group C,high school,standard,none,44,61,52,157,False,True,False,False,52.333333333333336,F,Fail
+female,group C,some high school,free/reduced,none,48,56,51,155,False,False,False,False,51.666666666666664,F,Pass
+male,group B,some high school,free/reduced,completed,49,50,52,151,False,False,False,False,50.333333333333336,F,Pass
+male,group C,high school,standard,completed,58,52,54,164,False,False,False,False,54.666666666666664,F,Pass
+female,group D,some high school,free/reduced,none,48,54,53,155,False,False,False,False,51.666666666666664,F,Pass
+female,group A,high school,free/reduced,completed,53,50,60,163,False,False,True,False,54.333333333333336,F,Pass
+male,group A,high school,standard,none,57,51,54,162,False,False,False,False,54.0,F,Pass
+female,group C,associate's degree,standard,none,40,59,51,150,False,False,False,False,50.0,F,Fail
